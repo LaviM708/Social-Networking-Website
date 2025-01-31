@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "675bac145048149e31553cfe"
+  },
+  "name": "jason",
+  "email": "jason@example.com",
+  "password": "Jason12345",
+  "dob": "2000-01-01",
+  "gender": "female",
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "675baec25048149e31553d00"
+  },
+  "name": "marium",
+  "email": "marium@gmail.com",
+  "password": "Marium12345",
+  "dob": "2000-12-10",
+  "gender": "female",
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "675baffa5048149e31553d04"
+  },
+  "name": "jack",
+  "email": "jack@example.com",
+  "password": "Jack12345",
+  "dob": "2000-01-01",
+  "gender": "male",
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "675bb0c75048149e31553d06"
+  },
+  "name": "mars",
+  "email": "mars@gmail.com",
+  "password": "Mars12345",
+  "dob": "1928-09-01",
+  "gender": "male",
+  "following": [
+    "jason"
+  ]
+}]
